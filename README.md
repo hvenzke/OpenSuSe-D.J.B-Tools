@@ -1,8 +1,7 @@
-
 OpenSuSE-DJB-Tools / RCIS-Qmail-toaster 
 ===========================================
 
-Build Project for Qmail-mysql / Qmail-Ldap  / Qmail-mini / NUllmailer  with 
+Build Project for Qmail-mysql / Qmail-Ldap  / Qmail-mini / Nullmailer  with 
 
 autorespond clockspeed daemontools  dotforward dotconf ezmlm fastforward  
 isoqlog leapsecs lmtp2nntp mess822 qmailanalog qss libsplit
@@ -23,8 +22,8 @@ BUG reports please via mail to support@remsnet.de or raise an Issuie.
 
 Changelog - 23.03.2013 - Horst dot venzke at remsnet dot de
 
- daemontools for systemd  on oss   : completed
- nullmailer for systemd   on oss   : completed
+ daemontools for systemd  on oss   : completed 
+ nullmailer for systemd   on oss   : completed 
 
 
 Depend Software builds extras on RPI ARM oss 13.1
