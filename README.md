@@ -1,5 +1,4 @@
 
-
 OpenSuSE-DJB-Tools / RCIS-Qmail-toaster 
 ===========================================
 
@@ -24,8 +23,8 @@ BUG reports please via mail to support@remsnet.de or raise an Issuie.
 
 Changelog - 23.03.2013 - Horst dot venzke at remsnet dot de
 
-daemontools for systemd  on oss   : completed
-nullmailer for systemd   on oss   : completed
+ daemontools for systemd  on oss   : completed
+ nullmailer for systemd   on oss   : completed
 
 
 Depend Software builds extras on RPI ARM oss 13.1
