@@ -6,10 +6,11 @@ Build Project for Qmail-mysql / Qmail-Ldap  / Qmail-mini / Nullmailer  with
 autorespond clockspeed daemontools  dotforward dotconf ezmlm fastforward  
 isoqlog leapsecs lmtp2nntp mess822 qmailanalog qss libsplit
 qmailmrtg qmhandle qtools qmail-queue serialmail tai64nfrac tmda tnef ucspi-tcp
-vpopmail squirrelmail simscan ripmime qmailadmin maildrop libsrs2 libdomainkeys
+vpopmail squirrelmail ripmime qmailadmin maildrop libsrs2 libdomainkeys
 control-panel queue-repair lzo 
+q-trap simscan
 
-WE use as IMAP servers 
+WE use as IMAP servers cyrus-imap and dovecot
 
 Our Major Qmail development Build are done on Rasberry PI opensuse .
 
