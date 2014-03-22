@@ -1,0 +1,22 @@
+
+Qmail has a lot of tools, and different sites providing them with maintained state.
+
+Our Major Build Sources are from :
+
+- http://www.qmailrocks.org
+- http://www.qmail.org
+- http://www.qmailtoaster.com/
+- GitHUB 
+
+Qmail Ldap:
+- ** http://www.qmail-ldap.info/ **
+- https://systemausfall.org/wikis/howto/QMailInstallationHowto
+- http://www.lifewithqmail.org/ldap/
+
+
+Qmail Mini:
+( qmail plain , no ldap / db support )
+- http://www.qmail.org
+
+
+Qmail Mysql: 
