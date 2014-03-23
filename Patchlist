@@ -1,0 +1,24 @@
+
+
+the Folowing common Patches have been added - More patch details to be listed 
+
+fastforward-0.51.errno.patch        
+mess822-smtp-auth-patch.txt             
+qmailanalog-0.70.errno.patch
+checkpassword-0.90.errno.patch  
+serialmail-0.75.errno.patch
+daemontools-0.76.errno.patch    
+leapseconds-script.pl                
+qmail-1.03-realrcptto-2006.12.10.patch  
+ucspi-tcp-0.88.a_record.patch
+djbdns-1.05.errno.patch         
+mess822-0.58-nonroot-20140323.patch
+ucspi-tcp-0.88.errno.patch
+dot-forward-0.71.errno.patch    
+mess822-0.58.errno.patch             
+uspi-tcp-0.88.nodefaultrbl.patch
+
+
+The Following Custum patches have been added - to be written list
+
+
