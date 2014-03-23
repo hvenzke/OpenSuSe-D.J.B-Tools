@@ -1,5 +1,5 @@
 #
-# Remsnet  Spec file for package daemontools (Version 0.76)
+# Remsnet  Spec file for package nullmailer
 #
 # Copyright (c) 1995-2008 Remsnet Netzwerk Service OhG , D73630 Remshalden
 # Copyright (c) 2008 Remsnet Consullting & Internet Services LTD , D73630 Remshalden
