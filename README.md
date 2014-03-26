@@ -14,7 +14,8 @@ WE use as IMAP servers cyrus-imap and dovecot
 
 Our Major Qmail development Build are done on Rasberry PI opensuse .
 
-Remsnet Qmail  RPi Build with RPMS , SRPM , Tarballs & SPEC are stored at Our dropbox.
+Remsnet Qmail  RPi Build with RPMS , SRPM , Tarballs & SPEC are stored at Our dropbox URL:
+ https://www.dropbox.com/sh/kk6ntmdne0bopx0/zeETjHuEzZ
 
 rpm structure keept Original D.J.B Build way  as past +12 years on Our custom SuSE / Fedora  Qmail Builds.
 
