@@ -24,10 +24,27 @@ Changelog - 23.03.2013 - Horst dot venzke at remsnet dot de
 
  daemontools for systemd  on oss   : completed 
  nullmailer for systemd   on oss   : completed 
-
+  cdb           - completed
+  mess822       - completed
+  tmda          - completed
+  tnef          - completed
+  serialmail    - completed
+  fastforward   - completed
+  dot-forward   - completed
+  tai64nfrac    - completed
 
 Depend Software builds extras on RPI ARM oss 13.1
 
- to.be.written
+  lz4         - done
+  tinycdb       - completed  ( dovecot require libcdb )
  
-Changes in  Progress  - 
+Changes in  Progress  - Under work
+
+  dovecot 2.2   - build in progress
+  qmail-mini    - build in progress
+  qmail-ldap    - build in progress
+ 
+  .. some more required qmail stuff are under rpmbuild.
+  
+
+  
