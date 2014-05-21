@@ -1,4 +1,4 @@
-# Remsnet  Spec file for package tmda
+# Remsnet  Spec file for package ezmlm-idx
 #
 # Copyright (c) 1995-2008 Remsnet Netzwerk Service OhG , D-73630 Remshalden
 # Copyright (c) 2008-2014 Remsnet Consullting & Internet Services LTD , D-40476 Duesseldorf
