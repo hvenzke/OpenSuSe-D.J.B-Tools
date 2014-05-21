@@ -201,7 +201,6 @@ tar fvxj $RPM_SOURCE_DIR/ezman-%{htmlversion}.html.tar.bz2
 [ -d $RPM_BUILD_DIR/%{name}-%{version} ] && rm -rf $RPM_BUILD_DIR/%{name}-%{version}
 
 %changelog
-%changelog
 * Wed May 21 2014 support@remsnet.de -r 7.22+idx0.55
 - bumped to 7.22, idx 0.55
 - updated URL from ezmlm.org to http://untroubled.org/ezmlm - ezmlm.org is no more the ezmlm home.
