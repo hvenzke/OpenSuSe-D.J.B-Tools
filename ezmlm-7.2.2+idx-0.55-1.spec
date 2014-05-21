@@ -13,7 +13,7 @@
 # license that conforms to the Open Source Definition (Version 1.9)
 # published by the Open Source Initiative.
 
-# Please submit bugfixes or comments  https://github.com/remsnet/DJB-Tools/tree/master
+# Please submit bugfixes or comments  https://github.com/remsnet/OpenSuSe-D.J.B-Tools/blob/master
 
 
 %define name ezmlm
